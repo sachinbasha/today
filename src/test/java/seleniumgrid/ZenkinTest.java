@@ -8,7 +8,12 @@ public class ZenkinTest
 	@Test
 	public void test()
 	{
-		Reporter.log("sachin",true);
+		Reporter.log("sachi",true);
+	}
+	@Test
+	public void test1()
+	{
+		Reporter.log("sachi",true);
 	}
 
 }
