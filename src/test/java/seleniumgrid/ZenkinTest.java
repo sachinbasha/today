@@ -15,5 +15,10 @@ public class ZenkinTest
 	{
 		Reporter.log("sachi",true);
 	}
+	@Test
+	public void test2()
+	{
+		Reporter.log("sachi",true);
+	}
 
 }
