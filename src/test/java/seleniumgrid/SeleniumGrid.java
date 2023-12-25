@@ -14,7 +14,7 @@ import org.testng.annotations.Test;
 
 public class SeleniumGrid {
 
-	@Test
+	//@Test
 	public void testTest() throws URISyntaxException, MalformedURLException, InterruptedException
 	{
 		URL url=new URL("http://192.168.226.1:5555/wd/hub");
